@@ -57,7 +57,8 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 ### Contact Us
 
 ```markdown
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at greekqts@gmail.com.
+If you have any questions or suggestions about my Privacy Policy,
+do not hesitate to contact me at greekqts@gmail.com.
 Alex Karapanos
 Dimos Agiou Vasiliou 74060
 ```
